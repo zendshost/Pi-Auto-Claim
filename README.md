@@ -22,8 +22,7 @@
 
 Cara termudah untuk menggunakan alat ini adalah dengan mengunduh file `.exe` yang sudah dikompilasi (untuk pengguna **Windows**).
 
-1.  **Unduh:** Unduh file `.exe` dari tautan berikut:
-    $$\text{LimeWire: [[Link](https://limewire.com/?referrer=pq7i8xx7p2)]}$$
+1.  **Unduh:** Unduh file `.exe` dari tautan berikut: https://limewire.com/?referrer=pq7i8xx7p2
 
 2.  **Siapkan `fee.txt`:** Buat file teks bernama **`fee.txt`** di direktori yang sama dengan file `.exe`. File ini harus berisi daftar **seed phrase 24 kata** (satu phrase per baris) yang akan digunakan untuk membayar biaya transaksi (*Fee Payer*). Akun-akun ini harus memiliki saldo Pi yang cukup untuk biaya.
 
